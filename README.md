@@ -1,7 +1,7 @@
 # spartaglobal_tdd
 
 
-### Test Driven Development
+### Test Driven Development
 
 This work uses Jasmine node package to test the basic functions used in our advanced calculator
 the test cases can be found under the calcEngineSpec.js in spec folder.
